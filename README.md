@@ -1,2 +1,4 @@
 # hello-world
-try a repository
+Hi guys!
+
+Nice to meet you here!
